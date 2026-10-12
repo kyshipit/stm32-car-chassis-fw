@@ -2,6 +2,7 @@
 MDK_PRO/Listings
 MDK_PRO/Objects
 
+output/*
 OUTPUT/*
 !OUTPUT/*.hex
 
