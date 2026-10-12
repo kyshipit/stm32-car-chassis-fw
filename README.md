@@ -20,3 +20,16 @@ FreeRTOS-based STM32 firmware for differential mobile robot chassis.
 Serial port used for data exchange between STM32 and upper computer.
 - Receive velocity command from upper PC
 - Publish encoder odometry and IMU feedback
+
+## Project Structure
+```
+├── CMSIS              # ARM CMSIS core library
+├── FreeRTOS           # Real-time operating system
+├── FWlib              # STM32 peripheral library
+├── Source             # Application source code
+├── output             # Compiled firmware output
+└── rosmaster.uvprojx  # Keil MDK project
+```
+
+## License
+This project is for personal learning purpose.
