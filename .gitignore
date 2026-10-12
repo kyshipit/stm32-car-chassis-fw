@@ -9,4 +9,5 @@ OUTPUT/*
 *.uvguix.Administrator
 *.map
 *.bak
-
+*.uvoptx
+*.scvd
